@@ -1,0 +1,27 @@
+{
+    "name": "balgf/laravel-monopond-fax",
+    "description": "Laravel package for monopond fax API client",
+    "keywords": [
+        "laravel",
+        "monopond",
+        "fax",
+        "API",
+        "client"
+    ],
+    "authors": [
+        {
+            "name": "balgf"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "classmap": [
+            "src/Monopond/fax-api-client-php"
+        ],
+        "psr-0": {
+            "Balgf\\LaravelMonopondFax\\": "src/"
+        }
+    }
+}

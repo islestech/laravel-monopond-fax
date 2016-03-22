@@ -1,0 +1,3 @@
+[submodule "src/Monopond/fax-api-client-php"]
+	path = src/Monopond/fax-api-client-php
+	url = https://github.com/Monopond/fax-api-client-php.git
