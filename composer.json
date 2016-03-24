@@ -18,7 +18,8 @@
     },
     "autoload": {
         "classmap": [
-            "src/Monopond/fax-api-client-php"
+            "src/Monopond/fax-api-client-php",
+            "src/Balgf/LaravelMonopondFax"
         ],
         "psr-0": {
             "Balgf\\LaravelMonopondFax\\": "src/"

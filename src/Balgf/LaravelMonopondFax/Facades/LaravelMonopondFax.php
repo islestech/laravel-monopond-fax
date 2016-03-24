@@ -1,4 +1,4 @@
-<?php namespace balgf\LaravelMonopondFax\Facades;
+<?php namespace Balgf\LaravelMonopondFax\Facades;
 use Illuminate\Support\Facades\Facade;
 
 class LaravelMonopondFax extends Facade {
