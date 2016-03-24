@@ -1,9 +1,8 @@
-<?php namespace balgf\LaravelMonopondFax;
+<?php namespace Balgf\LaravelMonopondFax;
 
-use Illuminate\Support\ServiceProvider;
-use App\Services\PaypalAPI;
+use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 
-class PaypalAPIServiceProvider extends ServiceProvider {
+class ServiceProvider extends BaseServiceProvider {
 
     /**
      * Bootstrap the application services.
