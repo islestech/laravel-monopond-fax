@@ -1,7 +1,7 @@
 # laravel-monopond-fax
 Laravel package for monopond fax api client.
 
-This package contains a sub module from [Monopond's Fax API Client](https://github.com/Monopond/fax-api-client-php)
+This package contains a [subtree](https://github.com/balgf/laravel-monopond-fax/tree/develop/src/Monopond/fax-api-client-php) from [Monopond's Fax API Client](https://github.com/Monopond/fax-api-client-php)
 
 #Installation
 
