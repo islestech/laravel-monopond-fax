@@ -227,6 +227,7 @@ class MonopondSOAPClientV2 {
 		const Production = "https://api.monopond.com/fax/soap/v2.2/?wsdl";
 		const Test = "http://test.api.monopond.com/fax/soap/v2.2/?wsdl";
 		const Local = "http://localhost:8000/fax/soap/v2.2?wsdl";
+		const ProductionNew = "https://faxapi.monopond.com/api/fax/v2.1?wsdl";
 	}
 
 	class clsWSSEToken {
